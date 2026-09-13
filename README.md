@@ -45,16 +45,16 @@ This project analyzes the **2014 OSMI (Open Sourcing Mental Illness) Mental Heal
 ```
 MentalHealth_Survey/
 ├── .streamlit/
-│   └── config.toml              # Dashboard theme (colors, font)
-├── eda_outputs/                 # 19 saved PNG charts from the EDA script
-├── venv/                        # Local virtual environment (not pushed to GitHub)
-├── mental_health_eda.py         # EDA script (VS Code / cell-mode runnable)
+│   └── config.toml                   # Dashboard theme (colors, font)
+├── eda_outputs/                      # 19 saved PNG charts from the EDA script
+├── venv/                             # Local virtual environment (not pushed to GitHub)
+├── mental_health_eda.py              # EDA script (VS Code / cell-mode runnable)
 ├── Mental_Health_in_Tech_EDA.ipynb   # Full notebook version of the EDA
-├── Mental_Health_Streamlit.py   # Streamlit dashboard app
+├── Mental_Health_Streamlit.py        # Streamlit dashboard app
 ├── README.md 
-├── requirements.txt             # Python dependencies
-├── survey.csv                   # 2014 OSMI survey data
-└── survey_2016.csv              # 2016 OSMI survey data (bonus comparison)
+├── requirements.txt                  # Python dependencies
+├── survey.csv                        # 2014 OSMI survey data
+└── survey_2016.csv                   # 2016 OSMI survey data (bonus comparison)
 ```
 
 ---
@@ -100,7 +100,7 @@ Then open **http://localhost:8501** in your browser.
 
 ## 🌐 Live Demo
 
-🔗 _Add your deployed Streamlit Community Cloud link here once deployed._
+🔗 (https://mental-health-in-tech-survey-n7dm7nkep8b2owb24fvrxe.streamlit.app/)
 
 ---
 
