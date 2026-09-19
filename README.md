@@ -63,7 +63,7 @@ MentalHealth_Survey/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/abhi-1009/mental-health-in-tech-survey.git
+git clone (https://github.com/Poorvika3)
 cd mental-health-in-tech-survey
 
 # 2. Create and activate a virtual environment
@@ -113,7 +113,7 @@ Then open **http://localhost:8501** in your browser.
 
 ## 👤 Author
 
-**Abhijit Sinha** — [@abhi-1009](https://github.com/abhi-1009)
+Poorvika R - (https://github.com/Poorvika3)
 
 ---
 
